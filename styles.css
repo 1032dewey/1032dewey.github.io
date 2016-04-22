@@ -1,0 +1,21 @@
+body {
+    background-image: url("TheLaw2.jpg");
+    background-size: 1000px 800px;
+    background-repeat: no-repeat;
+
+}
+
+.boldClass {
+	font-weight: bold;
+}
+
+#bigID {
+	font-size: 24 px;
+}
+
+.jumbotron {
+	background: rgba(255,255,255,0);
+	color: gray;
+	text-shadow: 1px 1px rgb(150,0,0);
+}
+
